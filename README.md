@@ -204,7 +204,15 @@ The assessment examines:
 
 Use the free [AI Workspace Assessment](assessment/ai-workspace-assessment.md) and [Readiness Scorecard](assessment/readiness-scorecard.md).
 
-For implementation or advisory work, connect with [Tsolmon Khudulmur on LinkedIn](https://www.linkedin.com/in/tsolmon-khudulmur) or through the [mootsoo GitHub profile](https://github.com/mootsoo). Mention **AI Workspace Assessment** in your message. Do not post confidential business information in a public issue.
+## Contact
+
+For implementation, advisory work, or an **AI Workspace Assessment**:
+
+- Email: [tsolmon.khudulmur@gmail.com](mailto:tsolmon.khudulmur@gmail.com)
+- LinkedIn: [Tsolmon Khudulmur](https://www.linkedin.com/in/tsolmon-khudulmur)
+- GitHub: [mootsoo](https://github.com/mootsoo)
+
+Do not send confidential client data, credentials, contracts, or private documents in an initial message or public issue.
 
 ## Status
 
