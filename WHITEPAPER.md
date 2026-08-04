@@ -3,8 +3,8 @@
 ## How small businesses can turn Google Workspace into an AI-enabled operating system with ChatGPT, Claude, or future AI assistants
 
 **Author:** Tsolmon Khudulmur  
-**Version:** Public draft 0.1  
-**Date:** August 2026
+**Version:** 1.0  
+**Date:** August 4, 2026
 
 ---
 
@@ -649,7 +649,9 @@ It is a business with clearer operational truth, a conversational interface, str
 
 **Tsolmon Khudulmur** is an IT leader, enterprise architect, and digital-transformation practitioner from Mongolia. His work focuses on connecting business strategy, operating models, information architecture, AI systems, and practical implementation.
 
-For advisory or implementation inquiries, connect through LinkedIn or GitHub. Do not post confidential business information in a public repository issue.
+For an AI Workspace Assessment, advisory work, or implementation discussion, connect with [Tsolmon Khudulmur on LinkedIn](https://www.linkedin.com/in/tsolmon-khudulmur) or through the [mootsoo GitHub profile](https://github.com/mootsoo). Mention **AI Workspace Assessment** in your message. Do not post confidential business information in a public repository issue.
+
+**Public framework:** https://github.com/mootsoo/ai-workspace-for-small-business
 
 ---
 
