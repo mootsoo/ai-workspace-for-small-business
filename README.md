@@ -146,13 +146,13 @@ The assessment examines:
 
 Use the free [AI Workspace Assessment](assessment/ai-workspace-assessment.md) and [Readiness Scorecard](assessment/readiness-scorecard.md).
 
-For implementation or advisory work, contact **Tsolmon Khudulmur** through LinkedIn or GitHub. Do not post confidential business information in a public issue.
+For implementation or advisory work, connect with [Tsolmon Khudulmur on LinkedIn](https://www.linkedin.com/in/tsolmon-khudulmur) or through the [mootsoo GitHub profile](https://github.com/mootsoo). Mention **AI Workspace Assessment** in your message. Do not post confidential business information in a public issue.
 
 ## Status
 
-**Version:** Public draft 0.1  
+**Version:** 1.0  
 **Author:** Tsolmon Khudulmur  
-**Published:** August 2026
+**Published:** August 4, 2026
 
 This is a practical reference architecture, not legal, privacy, cybersecurity, or regulatory certification. Each business remains responsible for its own data, permissions, contractual duties, and professional decisions.
 
