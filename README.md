@@ -94,6 +94,8 @@ The framework does **not** argue that every small business should avoid a CRM or
 - [Readiness scorecard](assessment/readiness-scorecard.md)
 - [LinkedIn and Facebook launch drafts](social/launch-posts.md)
 - [Official references](REFERENCES.md)
+- [Contributing](CONTRIBUTING.md)
+- [Licensing](LICENSE.md)
 
 ## A simple example
 
@@ -144,16 +146,21 @@ The assessment examines:
 
 Use the free [AI Workspace Assessment](assessment/ai-workspace-assessment.md) and [Readiness Scorecard](assessment/readiness-scorecard.md).
 
-For implementation or advisory work, contact **Tsolmon Khudulmur** through LinkedIn or GitHub. Do not post confidential business information in a public issue.
+For implementation or advisory work, connect with [Tsolmon Khudulmur on LinkedIn](https://www.linkedin.com/in/tsolmon-khudulmur) or through the [mootsoo GitHub profile](https://github.com/mootsoo). Mention **AI Workspace Assessment** in your message. Do not post confidential business information in a public issue.
 
 ## Status
 
-**Version:** Public draft 0.1  
+**Version:** 1.0  
 **Author:** Tsolmon Khudulmur  
-**Published:** August 2026
+**Published:** August 4, 2026
 
 This is a practical reference architecture, not legal, privacy, cybersecurity, or regulatory certification. Each business remains responsible for its own data, permissions, contractual duties, and professional decisions.
 
 ## Licensing
 
-The written framework and templates are intended for broad reuse with attribution. Licensing details will be finalized before the first stable release.
+Unless otherwise noted:
+
+- written framework material, diagrams, assessments, case studies, and templates are licensed under **CC BY 4.0**;
+- future sample code is licensed under **Apache 2.0**.
+
+See [Licensing](LICENSE.md) for details.
