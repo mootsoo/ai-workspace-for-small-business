@@ -84,7 +84,6 @@ The framework does **not** argue that every small business should avoid a CRM or
 - [Implementation roadmap](docs/implementation-roadmap.md)
 - [When Google Workspace is no longer enough](docs/when-you-need-a-database.md)
 - [Provider-neutral AI interface](docs/provider-neutral-ai.md)
-- [Education counseling case study](examples/education-counseling.md)
 - [Professional services case study](examples/professional-services.md)
 - [Master client index template](templates/master-client-index.md)
 - [Client hub template](templates/client-hub.md)
