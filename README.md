@@ -94,6 +94,8 @@ The framework does **not** argue that every small business should avoid a CRM or
 - [Readiness scorecard](assessment/readiness-scorecard.md)
 - [LinkedIn and Facebook launch drafts](social/launch-posts.md)
 - [Official references](REFERENCES.md)
+- [Contributing](CONTRIBUTING.md)
+- [Licensing](LICENSE.md)
 
 ## A simple example
 
@@ -156,4 +158,9 @@ This is a practical reference architecture, not legal, privacy, cybersecurity, o
 
 ## Licensing
 
-The written framework and templates are intended for broad reuse with attribution. Licensing details will be finalized before the first stable release.
+Unless otherwise noted:
+
+- written framework material, diagrams, assessments, case studies, and templates are licensed under **CC BY 4.0**;
+- future sample code is licensed under **Apache 2.0**.
+
+See [Licensing](LICENSE.md) for details.
