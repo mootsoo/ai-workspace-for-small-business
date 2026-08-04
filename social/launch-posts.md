@@ -1,8 +1,9 @@
 # Launch Posts
 
-These drafts are designed to introduce the public framework and attract small-business assessment leads.
+These drafts introduce the public framework and attract small-business assessment leads.
 
-Replace `[REPOSITORY URL]` with the final public repository URL after the release is merged.
+**Public repository:** https://github.com/mootsoo/ai-workspace-for-small-business  
+**Primary contact:** https://www.linkedin.com/in/tsolmon-khudulmur
 
 ## LinkedIn — recommended launch
 
@@ -44,11 +45,13 @@ And one rule I believe many AI projects need:
 
 > **Do not automate chaos. Establish operational truth first.**
 
-Repository: [REPOSITORY URL]
+Repository: https://github.com/mootsoo/ai-workspace-for-small-business
 
 I would especially like feedback from small-business owners who already use Google Workspace but feel that their clients, projects, documents, and follow-ups remain disconnected.
 
-For a private AI Workspace Assessment or implementation discussion, connect with me directly. Please do not post confidential business information publicly.
+For a private AI Workspace Assessment or implementation discussion, connect with me here: https://www.linkedin.com/in/tsolmon-khudulmur
+
+Please do not post confidential business information publicly.
 
 #SmallBusiness #ArtificialIntelligence #DigitalTransformation #GoogleWorkspace #ChatGPT #ClaudeAI #BusinessOperations #EnterpriseArchitecture
 
@@ -76,7 +79,7 @@ The central rule:
 
 > **Do not automate chaos. Establish operational truth first.**
 
-[REPOSITORY URL]
+https://github.com/mootsoo/ai-workspace-for-small-business
 
 #SmallBusiness #AI #BusinessOperations #DigitalTransformation
 
@@ -116,11 +119,13 @@ My favorite line from the paper:
 
 The public repository includes the white paper, templates, fictional examples, an assessment, and a readiness scorecard:
 
-[REPOSITORY URL]
+https://github.com/mootsoo/ai-workspace-for-small-business
 
 Small-business owners: where do you currently lose the most time — finding information, preparing meetings, following up, or keeping project status current?
 
-Please do not share private business information in the comments. Message me directly for a private discussion.
+Please do not share private business information in the comments. Message me directly for a private discussion:
+
+https://www.linkedin.com/in/tsolmon-khudulmur
 
 ---
 
@@ -165,11 +170,13 @@ Repository дотор:
 
 > **Do not automate chaos. Establish operational truth first.**
 
-[REPOSITORY URL]
+https://github.com/mootsoo/ai-workspace-for-small-business
 
 Жижиг бизнес эрхэлдэг хүмүүсээс асууя: Танай бизнест хамгийн их алдагддаг зүйл нь юу вэ — information олох, meeting-д бэлдэх, follow-up хийх, эсвэл current status-аа барих уу?
 
-Нууц business information-оо public comment дээр битгий бичээрэй. Private discussion бол шууд холбогдоорой.
+Нууц business information-оо public comment дээр битгий бичээрэй. Private discussion бол LinkedIn-ээр шууд холбогдоорой:
+
+https://www.linkedin.com/in/tsolmon-khudulmur
 
 ---
 
@@ -212,7 +219,7 @@ AI interface
 
 The AI provider is the interface. It should not become the database.
 
-Full framework: [REPOSITORY URL]
+Full framework: https://github.com/mootsoo/ai-workspace-for-small-business
 
 ---
 
@@ -244,7 +251,7 @@ Then choose:
 
 The technology should follow operating evidence.
 
-[REPOSITORY URL]
+https://github.com/mootsoo/ai-workspace-for-small-business
 
 ---
 
