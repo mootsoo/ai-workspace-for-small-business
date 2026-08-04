@@ -37,7 +37,6 @@ The repository includes:
 - governance and security controls;
 - a 90-day implementation roadmap;
 - reusable Client Hub and meeting templates;
-- fictional case studies;
 - a free AI Workspace Assessment;
 - a 100-point readiness scorecard.
 
@@ -117,7 +116,7 @@ My favorite line from the paper:
 
 > **Do not automate chaos. Establish operational truth first.**
 
-The public repository includes the white paper, templates, fictional examples, an assessment, and a readiness scorecard:
+The public repository includes the white paper, templates, an assessment, and a readiness scorecard:
 
 https://github.com/mootsoo/ai-workspace-for-small-business
 
@@ -160,7 +159,6 @@ Repository дотор:
 - governance and security rules
 - 90-day roadmap
 - reusable templates
-- fictional examples
 - free assessment
 - 100-point readiness scorecard
 
